@@ -2,7 +2,7 @@
 
 This module returns the length of a list using recursion.
 
-It's the [challenge #1](https://www.notion.so/Desafio-01-Utilizando-recurs-o-ebe28f949fc84d67be3758dfde4358e8) of Ignite Elixir**
+It's the [challenge #1](https://www.notion.so/Desafio-01-Utilizando-recurs-o-ebe28f949fc84d67be3758dfde4358e8) of Ignite Elixir
 
 ## Usage
 
